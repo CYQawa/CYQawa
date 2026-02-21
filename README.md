@@ -31,7 +31,7 @@
 ---
 
 ### 🤝 联系我
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:CYQawa@gmail.com)
+[![邮箱](https://img.shields.io/badge/邮箱-邮箱喵~-blue?)](mailto:sb7876659@163.com)
 
 ---
 
