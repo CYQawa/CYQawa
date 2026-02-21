@@ -18,7 +18,7 @@
 
 ### 📊 GitHub 统计
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuLiPai&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CYQawa&theme=react-dark" />
 </p>
 
 ---
