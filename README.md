@@ -35,4 +35,4 @@
 
 ---
 
-⭐️ 来自 [CYQawa](https://github.com/CYQawa)
+⭐️ [CYQawa](https://github.com/CYQawa)
