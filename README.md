@@ -31,7 +31,7 @@
 ---
 
 ### 🤝 联系我
-[![邮箱](https://img.shields.io/badge/邮箱-邮箱喵~-blue?)](mailto:sb7876659@163.com)
+[![邮箱](https://img.shields.io/badge/邮箱-邮箱喵~-blue?)](mailto:3372731544@qq.com)
 
 ---
 
