@@ -34,5 +34,8 @@
 [![邮箱](https://img.shields.io/badge/邮箱-邮箱喵~-blue?)](mailto:3372731544@qq.com)
 
 ---
+## 🔎 访客数
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=CYQawa.CYQawa)
+---
 
 ⭐️ [CYQawa](https://github.com/CYQawa)
