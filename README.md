@@ -4,7 +4,6 @@
 ### 🚀 About Me
 - 🤔 一个住校初中生
 - 🌱 我目前正在学习 Kotlin 
-- 🔭 我正在开发 [HFSPro](https://github.com/CYQawa/HFSPro)
 - ⚡ 有趣的事实 ：我完全使用手机开发
 
 
