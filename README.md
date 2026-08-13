@@ -11,7 +11,7 @@
 
 ### 💗 喜欢折腾的
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,java" />
+  <img src="https://skillicons.dev/icons?i=lua,java,kotlin" />
 </p>
 
 ---
